@@ -25,8 +25,8 @@
 
 ### Build with Stridge
 
-- **[Gateway Kit](https://docs.stridge.com/gateway)** — mount `<StridgeProvider />`, drop in `<DepositDialog />`, and accept any-to-any deposits with themed dialogs or headless hooks.
-- **[TypeScript SDK](https://docs.stridge.com/sdk)** — a typed, dependency-free client for Node, Bun, Deno, or any `fetch` runtime.
+- **[Gateway Kit](https://docs.stridge.com/gateway)** — drop-in React components for deposits and withdrawals, with ready-made dialogs or a fully custom interface when you want one.
+- **[TypeScript SDK](https://docs.stridge.com/sdk)** — a typed client with no dependencies, for backends and apps on Node, Bun, Deno, or any modern runtime.
 - **[Universal Deposit Addresses](https://docs.stridge.com/uda)** — the settlement model that powers every flow.
 - **[Supported networks](https://docs.stridge.com/networks)** — every chain and token Stridge routes through.
 
