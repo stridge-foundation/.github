@@ -14,8 +14,6 @@
     <a href="https://docs.stridge.com">Docs</a>
     &nbsp;·&nbsp;
     <a href="https://demo.stridge.com">Demo</a>
-    &nbsp;·&nbsp;
-    <a href="https://stridge.com/api-reference">API Reference</a>
   </p>
 </div>
 
